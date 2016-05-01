@@ -69,7 +69,7 @@ session.add(menuItem5)
 session.commit()
 
 menuItem6 = MenuItem(user_id=1, name="Iced Tea", description="with Lemon",
-                     price="$.99", course="Beverage", restaurant=restaurant1)
+                     price="$77.99", course="Beverage", restaurant=restaurant1)
 
 session.add(menuItem6)
 session.commit()
