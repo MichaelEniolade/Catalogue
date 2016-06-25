@@ -31,4 +31,7 @@ start application
 ##Example
 (login needed to create restaurant and menu respectively)
 
+## Resources
+
+Udacity, Stackoverflow, documentations and google searches
 
